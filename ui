@@ -1,0 +1,61 @@
+No Transparency V4 Menu
+
+{
+  "FStringInGameMenuModernizationStickyBarForcedUserIds": "UserID"
+}
+
+
+Revert Old Report Menu
+
+{
+  "FStringReportAbuseMenuRoactForcedUserIds": "UserID_HERE",
+  "FFlagEnableReportAbuseMenuRoactABTest2": "False",
+  "FFlagEnableReportAbuseMenuRoact2": "False",
+  "FFlagEnableReportAbuseMenuLayerOnV3": "False"
+}
+
+
+Custom MicroProfile Scale
+
+{
+  "DFIntMicroProfilerDpiScaleOverride": "100"
+}
+
+
+V1 Menu
+
+{
+  "FIntNewInGameMenuPercentRollout3": "10000"
+}
+
+
+Hides GUI
+
+{
+  "FFlagDebugAdornsDisabled": "True"
+
+
+Disable Bubble Chat
+
+{
+  "FFlagEnableBubbleChatFromChatService": "False"
+}
+
+
+Disable Selfview
+
+{
+  "FFlagCoreGuiTypeSelfViewPresent": "False"
+}
+
+
+Remove VC Beta Badge
+
+{
+  "FFlagVoiceBetaBadge": "False",
+  "FFlagTopBarUseNewBadge": "False",
+  "FFlagEnableBetaBadgeLearnMore": "False",
+  "FFlagBetaBadgeLearnMoreLinkFormview": "False",
+  "FFlagControlBetaBadgeWithGuac": "False",
+  "FStringVoiceBetaBadgeLearnMoreLink": "null"
+}
